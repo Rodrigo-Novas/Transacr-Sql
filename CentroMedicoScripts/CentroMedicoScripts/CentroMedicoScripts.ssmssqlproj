@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CentroMedicoScripts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="BAI-62LKRC2\SQLEXPRESS:USERSAD\rodnovas">
+          <Created>2020-08-12T15:40:12.775822-03:00</Created>
+          <Type>SQL</Type>
+          <Server>BAI-62LKRC2\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>CentroMedico</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="AVERAGE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>AVERAGE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="BACKUP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>BACKUP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="COUNT Y HAVING.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>COUNT Y HAVING.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Crear FK.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Crear FK.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Crear Tablas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Crear Tablas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Crear Tipo de dato Uuario.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Crear Tipo de dato Uuario.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Crear y asignar Roles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Crear y asignar Roles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Eliminar registros.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Eliminar registros.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Estructuras de control.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Estructuras de control.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Funciones Strings.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Funciones Strings.sql</FullPath>
+        </FileNode>
+        <FileNode Name="herramientas adicionales.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>herramientas adicionales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert data in tabla turnos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert data in tabla turnos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MIN Y MAX.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MIN Y MAX.sql</FullPath>
+        </FileNode>
+        <FileNode Name="operador logicoS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>operador logicoS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="reiniciar Identity.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>reiniciar Identity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="S05.CREATE_TABLE_Pais.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>S05.CREATE_TABLE_Pais.sql</FullPath>
+        </FileNode>
+        <FileNode Name="S05.CREATE_TABLE_TurnoEstado.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>S05.CREATE_TABLE_TurnoEstado.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_Especialidad.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_Especialidad.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_Insertar Paciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_Insertar Paciente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_Insertar Turnos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_Insertar Turnos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_OBTENET TURNOS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_OBTENET TURNOS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP-Insertar Medicos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP-Insertar Medicos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Store Procedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Store Procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SUM.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SUM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Tabalas temporales.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Tabalas temporales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Transacciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Transacciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Vistas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BAI-62LKRC2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BAI-62LKRC2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Vistas.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

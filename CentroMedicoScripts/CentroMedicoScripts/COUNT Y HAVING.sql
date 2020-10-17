@@ -1,0 +1,12 @@
+--FUNCION COUNT Y FUNCION HAVING
+--COUNT CUENTA LA CANTIDA DE FILAS EN TABLA (se debe usar con un where porque sino es poco performante)
+
+SELECT COUNT(idpaciente) from pacientes 
+
+
+--FUNCION HAVING TRABAJA CON GROUP BY Y COUNT, ESTA FUNCION LO QUE HACE ES DEVOLVER UNA CONDICION, "DONDE EL VALOR SEA"
+--SE DIFERENCIA DEL WHERE EN QUE EL HAVING PUEDE HACERLO EN MULTIPLES REGISTROS MIENTRAS QUE EL WHERE LO HACE CON UN SOLO REGISTRO
+--se puede utilizar con cualquier operador ><= NOT
+SELECT * FROM TURNO
+
+SELECT estadoDelTurno FROM TURNO GROUP BY estadoDelTurno HAVING COUNT(estadoDelTurno) =2 --me trae los registros en donde tengo dos registros
